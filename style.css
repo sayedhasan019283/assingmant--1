@@ -170,6 +170,9 @@
     font-size: 17px;
     line-height:30px;
 }
+.dev-head{
+    margin-left: 100px;
+}
 .dev-head button{
     background-color: #FF5959;
     border-radius: 5px;
